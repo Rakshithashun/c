@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676825996 source:c:\users\rakshitha\desktop\new folder (2)\swap strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

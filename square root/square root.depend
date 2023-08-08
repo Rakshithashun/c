@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670592383 source:c:\users\rakshitha\desktop\c programs\square root\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

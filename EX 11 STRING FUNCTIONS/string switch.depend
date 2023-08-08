@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674384309 source:c:\users\rakshitha\desktop\c programs\string switch\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674384309 source:c:\users\rakshitha\desktop\cp lab\ex 11 string functions\main.c
+	<stdio.h>
+	<stdlib.h>
+

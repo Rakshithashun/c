@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670145704 source:c:\users\rakshitha\desktop\branching statement\sum of cubes while\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668849319 source:c:\users\rakshitha\desktop\sequential statements\vote\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669717060 source:c:\users\rakshitha\desktop\branching statement\vote\main.c
+	<stdio.h>
+	<stdlib.h>
+

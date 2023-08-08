@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669193647 source:c:\users\rakshitha\desktop\sequential statements\power\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

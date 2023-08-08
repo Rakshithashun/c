@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668847852 source:c:\users\rakshitha\desktop\sequential statements\swap variables\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668847852 source:c:\users\rakshitha\desktop\c programs\swap variables\main.c
+	<stdio.h>
+	<stdlib.h>
+

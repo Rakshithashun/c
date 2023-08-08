@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668682145 source:c:\users\rakshitha\desktop\sequential statements\float\main.c
+	<stdio.h>
+	<stdlib.h>
+

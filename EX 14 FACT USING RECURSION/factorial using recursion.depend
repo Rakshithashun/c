@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674640846 source:c:\users\rakshitha\desktop\c programs\factorial using recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674640846 source:c:\users\rakshitha\desktop\cp lab\ex 14 fact using recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+

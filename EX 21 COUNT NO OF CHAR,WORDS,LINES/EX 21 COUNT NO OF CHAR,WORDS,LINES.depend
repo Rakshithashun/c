@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676867992 source:c:\users\rakshitha\desktop\cp lab\ex 21 count no of char,words,lines\main.c
+	<stdio.h>
+	<stdlib.h>
+

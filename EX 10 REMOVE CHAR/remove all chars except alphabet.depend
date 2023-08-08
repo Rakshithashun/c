@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1673013355 source:c:\users\rakshitha\desktop\c programs\remove all chars except alphabet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1674738993 source:c:\users\rakshitha\desktop\cp lab\remove all chars except alphabet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678894194 source:c:\users\rakshitha\desktop\cp lab\ex 10 remove char\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

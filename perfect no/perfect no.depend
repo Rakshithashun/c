@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670586732 source:c:\users\rakshitha\desktop\branching statement\perfect no\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1670586732 source:c:\users\rakshitha\desktop\c programs\perfect no\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668592026 source:c:\users\rakshitha\desktop\sequential\circle\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668592026 source:c:\users\rakshitha\desktop\sequential statements\circle\main.c
+	<stdio.h>
+	<stdlib.h>
+

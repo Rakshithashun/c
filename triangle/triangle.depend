@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668590910 source:c:\users\rakshitha\desktop\sequential\triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668590910 source:c:\users\rakshitha\desktop\sequential statements\triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+

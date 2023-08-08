@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668670160 source:c:\users\rakshitha\desktop\sequential\swap nos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668670501 source:c:\users\rakshitha\desktop\sequential statements\swap nos\main.c
+	<stdio.h>
+	<stdlib.h>
+

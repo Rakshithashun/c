@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671000228 source:c:\users\rakshitha\desktop\looping statements\fibonacci series\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1671000228 source:c:\users\rakshitha\desktop\c programs\fibonacci series\main.c
+	<stdio.h>
+	<stdlib.h>
+

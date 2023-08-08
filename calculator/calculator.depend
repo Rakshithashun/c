@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669447375 source:c:\users\rakshitha\desktop\branching statement\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669447375 source:c:\users\rakshitha\desktop\c programs\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

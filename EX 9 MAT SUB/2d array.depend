@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671088500 source:c:\users\rakshitha\desktop\c programs\2d array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1671088500 source:c:\users\rakshitha\desktop\cp lab\ex 9 mat sub\main.c
+	<stdio.h>
+	<stdlib.h>
+

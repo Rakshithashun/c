@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671444374 source:c:\users\rakshitha\desktop\c programs\matrix multiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1671444374 source:c:\users\rakshitha\desktop\cp lab\ex 9 mat mul\main.c
+	<stdio.h>
+	<stdlib.h>
+

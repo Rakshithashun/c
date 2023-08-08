@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669550211 source:c:\users\rakshitha\desktop\sequential statements\long\main.c
+	<stdio.h>
+	<stdlib.h>
+
